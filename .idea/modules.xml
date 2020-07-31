@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest/MyTest.iml" filepath="$PROJECT_DIR$/MyTest/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myAbstract/myAbstract.iml" filepath="$PROJECT_DIR$/myAbstract/myAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArray/myArray.iml" filepath="$PROJECT_DIR$/myArray/myArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArrayList/myArrayList.iml" filepath="$PROJECT_DIR$/myArrayList/myArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCharStream/myCharStream.iml" filepath="$PROJECT_DIR$/myCharStream/myCharStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myClass/myClass.iml" filepath="$PROJECT_DIR$/myClass/myClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDiGuiDemo/myDiGuiDemo.iml" filepath="$PROJECT_DIR$/myDiGuiDemo/myDiGuiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/myDuoTai/myDuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myImport/myImport.iml" filepath="$PROJECT_DIR$/myImport/myImport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myLambda/myLambda.iml" filepath="$PROJECT_DIR$/myLambda/myLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMethod/myMethod.iml" filepath="$PROJECT_DIR$/myMethod/myMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myNet/myNet.iml" filepath="$PROJECT_DIR$/myNet/myNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myOtherStream/myOtherStream.iml" filepath="$PROJECT_DIR$/myOtherStream/myOtherStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myString/myString.iml" filepath="$PROJECT_DIR$/myString/myString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" filepath="$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStudentManager/myStudentManager.iml" filepath="$PROJECT_DIR$/myStudentManager/myStudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySystem/mySystem.iml" filepath="$PROJECT_DIR$/mySystem/mySystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myThread/myThread.iml" filepath="$PROJECT_DIR$/myThread/myThread.iml" />
+    </modules>
+  </component>
+</project>
